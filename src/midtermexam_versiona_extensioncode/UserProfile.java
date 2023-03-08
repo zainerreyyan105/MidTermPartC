@@ -61,8 +61,6 @@ public class UserProfile
         this.genre = genre;
     }
     
-    
-    
-    
+    System.out.println("testing to see if this works?");
     
 }//end class
